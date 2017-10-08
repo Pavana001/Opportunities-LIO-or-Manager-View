@@ -1,0 +1,7 @@
+{
+  "name": "gbs",
+  "short_name": "gbs",
+  "description": "gbsapp",
+  "start_url": "/",
+  "display": "standalone"
+}
